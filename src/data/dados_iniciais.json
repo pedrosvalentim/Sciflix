@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Átila",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "black",
+      "link_extra": {
+        "text": "Canal do Átila no YouTube",
+        "url": "https://www.youtube.com/channel/UCdGpd0gNn38UKwoncZd9rmA"
+      },
+      "videos": [
+        {
+          "titulo": "Para o que serve o branco dos olhos",
+          "url": "https://www.youtube.com/watch?v=ON7kl-2n4Fk"
+        },
+        {
+          "titulo": "This is made to break",
+          "url": "https://www.youtube.com/watch?v=56yq7Xbpic8"
+        },
+        {
+          "titulo": "Por que a TESLA é isso tudo mesmo! #ATILAVLOG",
+          "url": "https://www.youtube.com/watch?v=0SHTCof2XAk"
+        },
+        {
+          "titulo": "WHAT IS THE SPIRIT? (in my view as a scientist)",
+          "url": "https://www.youtube.com/watch?v=HxUQJDwIkkI"
+        },
+        {
+          "titulo": "Why is IPHONE so expensive? #ATILATECH",
+          "url": "https://www.youtube.com/watch?v=x9d6o8qpGpk"
+        },
+        {
+          "titulo": "O segredo da MERITOCRACIA",
+          "url": "https://www.youtube.com/watch?v=YINTTVjBrY4"
+        },
+        {
+          "titulo": "The dark side of the moon and the power of ignorance",
+          "url": "https://www.youtube.com/watch?v=qBwfi-gCZOg"
+        },
+        {
+          "titulo": "O valor da amizade",
+          "url": "https://www.youtube.com/watch?v=MsbnXVPIhmw"
+        }        
+      ]
+    },
+    {
+      "titulo": "Pirulla",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal do Pirulla no YouTube",
+        "url": "https://www.youtube.com/user/Pirulla25/featured"
+      },
+      "videos": [
+        {
+          "titulo": "Um bate-papo com Drauzio Varella (#Pirula 196)",
+          "url": "https://www.youtube.com/watch?v=Bf7EXGTh8X8"
+        },
+        {
+          "titulo": "O mundo assombrado pelos demônios (#Pirula 99)",
+          "url": "https://www.youtube.com/watch?v=J5ncvehkWMw"
+        },
+        {
+          "titulo": "P.C.R.Evo [1] - Por que ainda existem macacos? (#Evolução)",
+          "url": "https://www.youtube.com/watch?v=LBjDKpml85c"
+        },
+        {
+          "titulo": "Vida eterna (#Pirula 73.1)",
+          "url": "https://www.youtube.com/watch?v=vX0qDA4mGyM"
+        }, 
+        {
+          "titulo": "P.C.R.Evo [2] - Evolução é acaso?",
+          "url": "https://www.youtube.com/watch?v=SgHH9pTqYPk"
+        }
+      ]
+    },
+    {
+      "titulo": "Slow",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Canal do Slow no YouTube",
+        "url": "https://www.youtube.com/channel/UCl10NIdDOn9MMWdKNyo_YdA"
+      },
+      "videos": [
+        {
+          "titulo": "A ORIGEM DOS EUROPEUS! | Canal do Slow #05",
+          "url": "https://www.youtube.com/watch?v=KwAKOF4xpzs"
+        },
+        {
+          "titulo": "RELIGIÃO! | Canal do Slow #15",
+          "url": "https://www.youtube.com/watch?v=Etmngmo4tdc"
+        },
+        {
+          "titulo": "DEUS. | Canal do Slow 57",
+          "url": "https://www.youtube.com/watch?v=cy9gV2nN8rI"
+        },
+        {
+          "titulo": "O ABORTO! | Canal do Slow 36",
+          "url": "https://www.youtube.com/watch?v=5Tw_x2BLAlE"
+        }
+      ]
+    },
+    {
+      "titulo": "Nerdologia",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Canal do Nerdologia no YouTube",
+        "url": "https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA"
+      },
+      "videos": [
+        {
+          "titulo": "Buraco Negro | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=ThG5RHBR7dA"
+        },
+        {
+          "titulo": "CAOS E EFEITO BORBOLETA | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=C4eHJ8ZJgG4"
+        },
+        {
+          "titulo": "A física de Interestelar | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=hvj_E767qyo"
+        },
+        {
+          "titulo": "Tempo | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=4GGS9XQpbkM"
+        }
+      ]
+    },
+    {
+      "titulo": "Kurzgesagt – In a Nutshell",
+      "cor": "red",
+      "link_extra": {
+        "text": "Canal do Kurzgesagt no YouTube",
+        "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+      },
+      "videos": [
+        {
+          "titulo": "The Fermi Paradox — Where Are All The Aliens? (1/2)",
+          "url": "https://www.youtube.com/watch?v=sNhhvQGsMEc"
+        },
+        {
+          "titulo": "Genetic Engineering Will Change Everything Forever – CRISPR",
+          "url": "https://www.youtube.com/watch?v=jAhjPd4uNFY"
+        },
+        {
+          "titulo": "Why Alien Life Would be our Doom - The Great Filter",
+          "url": "https://www.youtube.com/watch?v=UjtOGPJ0URM"
+        },
+        {
+          "titulo": "Three Ways to Destroy the Universe",
+          "url": "https://www.youtube.com/watch?v=4_aOIA-vyBo"
+        },
+        {
+          "titulo": "What Happened Before History? Human Origins",
+          "url": "https://www.youtube.com/watch?v=dGiQaabX3_o"
+        }
+      ]
+    },
+    {
+      "titulo": "Vsauce",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Canal do Vsauce no YouTube",
+        "url": "https://www.youtube.com/user/Vsauce"
+      },
+      "videos": [
+        {
+          "titulo": "Travel INSIDE a Black Hole",
+          "url": "https://www.youtube.com/watch?v=3pAnRKD4raY"
+        },
+        {
+          "titulo": "How High Can We Build?",
+          "url": "https://www.youtube.com/watch?v=GJ4Qp2xeRds"
+        },
+        {
+          "titulo": "What Will We Miss?",
+          "url": "https://www.youtube.com/watch?v=7uiv6tKtoKg"
+        },
+        {
+          "titulo": "Why Are Things Creepy?",
+          "url": "https://www.youtube.com/watch?v=PEikGKDVsCc"
+        },
+        {
+          "titulo": "Messages For The Future",
+          "url": "https://www.youtube.com/watch?v=GDrBIKOR01c"
+        }
+      ]
+    }
+  ]
+}
