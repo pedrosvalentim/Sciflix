@@ -4,7 +4,7 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
+      <a href="/">
         <img src='https://fontmeme.com/permalink/200728/a902109955f19fc1c4d59731b9ca9c2a.png' alt="Logo Alura" />
       </a>
       <p>
